@@ -1,0 +1,7 @@
+integrantes:
+    Steveen Antonio Portillo Gómez u20240573
+    Yordin Omar Ramírez Martínez u20240002
+    Brayan Alexander Álvarez Martínez u20241104
+
+enlace de GitHub:
+  https://github.com/Steveen-z/Entrega_Lab1.git
